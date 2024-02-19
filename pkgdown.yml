@@ -1,0 +1,11 @@
+pandoc: 2.19.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  how: how.html
+  how-to-use-this-pkg: how-to-use-this-pkg.html
+last_built: 2024-02-19T11:14Z
+urls:
+  reference: https://wangkai7kkw.github.io/Pkg1/reference
+  article: https://wangkai7kkw.github.io/Pkg1/articles
+
