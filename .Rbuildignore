@@ -1,2 +1,10 @@
 ^Pkg1\.Rproj$
 ^\.Rproj\.user$
+^\.github$
+^LICENSE\.md$
+^vignettes/articles$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^README\.Rmd$
+^data-raw$
